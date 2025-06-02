@@ -1,0 +1,21 @@
+python-learning-journey/
+│
+├── README.md                    # 倉庫總介紹
+│
+├── 01-variables-and-input/     # 第一單元：變數與輸入
+│   └── practice.py
+│
+├── 02-conditions-and-loops/    # 第二單元：條件與迴圈
+│   └── exercises.ipynb
+│
+├── 03-functions/               # 第三單元：函式練習
+│   └── temperature_converter.py
+│
+├── 04-web-crawler/             # 初階爬蟲
+│   └── ptt_crawler.py
+│
+├── 05-mini-projects/           # 小專案專區
+│   ├── bmi_calculator/
+│   │   └── bmi.py
+│   └── todo_list_cli/
+│       └── todo.py
